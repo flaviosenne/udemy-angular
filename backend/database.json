@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "celular",
+      "price": 1505.65
+    },
+    {
+      "id": 4,
+      "name": "Geladeira",
+      "price": 1913.56
+    },
+    {
+      "name": "TV",
+      "price": 913.56,
+      "id": 5
+    },
+    {
+      "name": "Monitor",
+      "price": 413.56,
+      "id": 6
+    }
+  ],
+  "client": [
+    {
+      "id": 1,
+      "name": "jose",
+      "last": "cruz"
+    },
+    {
+      "name": "gui",
+      "last": "assim",
+      "id": 2
+    }
+  ]
+}
