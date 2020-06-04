@@ -19,6 +19,21 @@
       "name": "Monitor",
       "price": 413.56,
       "id": 6
+    },
+    {
+      "name": "Veio aqui",
+      "price": "9.90",
+      "id": 7
+    },
+    {
+      "name": "geladeira",
+      "price": "2000",
+      "id": 8
+    },
+    {
+      "name": "controle",
+      "price": "35.76",
+      "id": 9
     }
   ],
   "client": [
