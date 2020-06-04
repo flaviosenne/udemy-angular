@@ -1,22 +1,7 @@
 {
   "products": [
     {
-      "id": 3,
-      "name": "celular",
-      "price": 1505.65
-    },
-    {
-      "id": 4,
-      "name": "Geladeira",
-      "price": 1913.56
-    },
-    {
-      "name": "TV",
-      "price": 913.56,
-      "id": 5
-    },
-    {
-      "name": "Monitor",
+      "name": "Monitor Gamer",
       "price": 413.56,
       "id": 6
     },
@@ -34,6 +19,21 @@
       "name": "controle",
       "price": "35.76",
       "id": 9
+    },
+    {
+      "name": "TV Tubo",
+      "price": "1045.32",
+      "id": 10
+    },
+    {
+      "name": "lapis",
+      "price": "2",
+      "id": 11
+    },
+    {
+      "name": "exemplo",
+      "price": "99.34",
+      "id": 12
     }
   ],
   "client": [
