@@ -34,6 +34,11 @@
       "name": "exemplo",
       "price": "99.34",
       "id": 12
+    },
+    {
+      "name": "TV",
+      "price": "1540.45",
+      "id": 13
     }
   ],
   "client": [
